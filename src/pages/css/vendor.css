@@ -1,0 +1,63 @@
+/* Created by 
+SAMEER MOHAMED, B00845973 */
+
+.vendor-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  width: 80vw;
+  margin: auto;
+  padding-bottom: 6rem;
+}
+
+.vendor-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.vendor-card:hover {
+  background-color: #e6e6e6;
+  transition: 0.2s;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.vendor-image {
+  width: 900px;
+  height: 500px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  padding-top: 3rem;
+}
+
+.vendor-name {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.vendor-description {
+  font-size: 1.2rem;
+  color: #666;
+  text-align: center;
+  padding: 0rem 3rem 2rem;
+}
+
+.vendors-list-heading {
+  color: #333;
+  font-size: 2.8rem;
+  padding-top: 1.5rem;
+  text-align: left;
+  font-weight: bold;
+}
+
+.vendors-list-subheading {
+  color: #666;
+  font-size: 1.3rem;
+  margin-top: -1.8rem;
+  text-align: left;
+}

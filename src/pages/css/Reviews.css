@@ -1,0 +1,82 @@
+/**
+ * Created & Developed by Raunak Singh, B00831843
+ */
+
+.main-reviews-page {
+    width: 85vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 6rem;
+}
+
+.main-review-login-msg {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    color: #e60000;
+}
+
+.main-review-login-button {
+    margin-top: 0.2rem;
+    color: #2d9aae;
+    cursor: pointer;
+}
+
+.main-review-form-heading {
+    color: #333;
+    font-size: 2.8rem;
+    padding-top: 1.5rem;
+    text-align: left;
+    font-weight: bold;
+}
+
+.main-review-form-subheading {
+    color: #666;
+    font-size: 1.3rem;
+    margin-top: 1.3rem;
+    text-align: left;
+}
+
+.main-reviews-page button {
+    text-align: center;
+    padding: 12px 12px;
+    margin-top: 3rem;
+    background-color: #cccc00;
+    font-weight: 600;
+    font-size: 1rem;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 15rem;
+    transition: all 0.3s;
+    margin-right: auto;
+    min-height: 3rem;
+}
+
+.main-reviews-page button:hover {
+    background-color: #0066b3;
+}
+
+.main-review-dropdown-desc {
+    color: #333;
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.review-select-vendor-container {
+    max-width: 26rem;
+    margin: auto;
+}
+
+.review-select-vendor {
+    width: 100%;
+    padding: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    background-color: #fff;
+    color: #666;
+}

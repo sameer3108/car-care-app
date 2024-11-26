@@ -1,0 +1,46 @@
+/**
+ * Co-Developed by Raunak Singh, B00831843
+ */
+
+.nav-bar {
+  margin-bottom: 2rem;
+}
+
+.menu-options ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  font-weight: 600;
+}
+
+.menu-options ul li {
+  padding: 1.4rem;
+}
+
+.menu-options ul li:hover {
+  background-color: #0066b3;
+  transition: all 0.3s;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #92d6e3;
+  color: white;
+  position: relative;
+}
+
+.nav-bar-icon {
+  margin-left: 1rem;
+  width: 40px;
+  height: 40px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}

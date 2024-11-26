@@ -1,0 +1,26 @@
+.container {
+    padding: 1em;
+  }
+  
+  h1 {
+    color: #0066B3;
+  }
+
+  h3 {
+    color: #0066B3;
+  }
+
+  strong {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  .grid {
+    display: grid;
+    gap: 1em;
+    grid-template: repeat(2, 1fr) / repeat(3, 1fr);
+  }
+  
+  .item {
+    padding: 0.5em;
+  }

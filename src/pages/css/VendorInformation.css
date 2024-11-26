@@ -1,0 +1,59 @@
+/* Created by 
+SAMEER MOHAMED, B00845973 */
+
+.vendor-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.vendor-title {
+    color: #2d3748;
+    font-size: 2.5em;
+    margin-bottom: 2px;
+}
+
+.vendor-welcome {
+    color: #4a5568;
+    font-size: 2em;
+    margin-bottom: 2px;
+}
+
+.vendor-info {
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.vendor-name {
+    font-size: 2em;
+    color: #2d3748;
+}
+
+.vendor-description {
+    color: #4a5568;
+    margin-top: 20px;
+}
+
+.package-container {
+    margin-top: 30px;
+    line-height: 1.8;
+}
+
+.package-container input[type="radio"] {
+    margin-right: 10px;
+}
+
+.order-button {
+    display: block;
+    font-size: large;
+    width: 200px;
+    height: 45px;
+    margin: 40px auto;
+    background: #4a5568;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}

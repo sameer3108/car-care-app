@@ -1,0 +1,64 @@
+/**
+ * Created & Developed by Raunak Singh, B00831843
+ */
+
+body {
+    background-color: #f2f2f2;
+}
+
+.main-blogs-page {
+    width: 85vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 6rem;
+}
+
+.main-blogs-page button {
+    text-align: center;
+    padding: 12px 12px;
+    margin-top: 1rem;
+    background-color: #4fd470;
+    font-weight: 600;
+    font-size: 1rem;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 15rem;
+    transition: all 0.3s;
+    margin-right: auto;
+    min-height: 3rem;
+}
+
+.main-blogs-page button:hover {
+    background-color: #0066b3;
+}
+
+.main-blogs-form-heading {
+    color: #333;
+    font-size: 2.8rem;
+    padding-top: 1.5rem;
+    text-align: left;
+    font-weight: bold;
+}
+
+.main-blogs-form-subheading {
+    color: #666;
+    font-size: 1.3rem;
+    margin-top: 1.3rem;
+    text-align: left;
+}
+
+.main-blog-login-msg {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    color: #e60000;
+}
+
+.main-blog-login-button {
+    margin-top: 0.2rem;
+    color: #2d9aae;
+    cursor: pointer;
+}

@@ -1,0 +1,45 @@
+.container {
+    padding: 1em;
+  }
+  
+  h1 {
+    color: #0066B3;
+  }
+
+  h2 {
+    color: #0066B3;
+  }
+
+  h3 {
+    color: #000000;
+  }
+
+  strong-1 {
+    font-weight: bold;
+  }
+  
+  .grid {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: 1fr;
+  }
+
+  @media (min-width: 600px) {
+    .grid{
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .vehicle-image{
+    max-width: 50%;
+    max-height: auto;
+  }
+
+  .profile-image{
+    max-width: 50%;
+    height: auto;
+  }
+  
+  .item {
+    padding: 0.5em;
+  }

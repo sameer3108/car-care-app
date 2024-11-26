@@ -1,0 +1,41 @@
+/* Created by 
+// SAMEER MOHAMED, B00845973 */
+
+.order-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.1);
+}
+
+.order-title {
+    color: #2d3748;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.order-subtitle {
+    color: #4a5568;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.order-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.order-table th, .order-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+.order-table th {
+    background-color: #4a5568;
+    color: white;
+}
