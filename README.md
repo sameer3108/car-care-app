@@ -6,7 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * *Last Modification Date*: 20 06 2023
 * *GitLab URL*: https://git.cs.dal.ca/ammar/csci-4177-grp-21
 * *Netlify URL*: https://inquisitive-valkyrie-34888f.netlify.app/
-* *GitHub Link*: https://github.com/Group-21-4177/CSCI-4177-Grp-21
 
 ## Authors
 
